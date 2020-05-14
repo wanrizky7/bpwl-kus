@@ -82,7 +82,7 @@ $.getJSON("datas.php",function (data){
 // options.theme = 'myTheme';
 
     tui.chart.barChart(container, data, options);
-                    
+    //maaf lahir bathin teman teman                
 });
 </script>
 
