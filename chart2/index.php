@@ -49,8 +49,8 @@ $.getJSON("datas.php",function (data){
 
     var options = {
         chart: {
-            width: 1160,
-            height: 650,
+            width: 1200,
+            height: 700,
             title: 'Grafik Penerimaan Mahasiswa Baru',
             format: '1'
         },
