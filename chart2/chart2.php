@@ -57,12 +57,12 @@ var options = {
         format: '1,000'
     },
     yAxis: {
-        title: 'Amount',
+        title: 'Jumlah',
         min: 0,
         max: 300
     },
     xAxis: {
-        title: 'Month'
+        title: 'Bulan'
     },
     legend: {
         align: 'top'
