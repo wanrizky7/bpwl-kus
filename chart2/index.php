@@ -49,9 +49,9 @@ $.getJSON("datas.php",function (data){
 
     var options = {
         chart: {
-            width: 1200,
-            height: 700,
-            title: 'Grafik Penerimaan Mahasiswa Baru',
+            width: 1160,
+            height: 650,
+            title: 'Grafik Penerimaan Mahasiswa Baru Politeknik Caltex Riau',
             format: '1'
         },
         yAxis: {
@@ -82,7 +82,8 @@ $.getJSON("datas.php",function (data){
 // options.theme = 'myTheme';
 
     tui.chart.barChart(container, data, options);
-                    
+    //maaf lahir bathin teman teman                
+
 });
 </script>
 
